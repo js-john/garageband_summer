@@ -15,7 +15,7 @@
 	<key>com_apple_garageband_metadata_hasMasterRTRegions</key>
 	<false/>
 	<key>com_apple_garageband_metadata_machine</key>
-	<string>iPad11,2</string>
+	<string>iPhone12,1</string>
 	<key>com_apple_garageband_metadata_mediaTrackType</key>
 	<string>Undefined</string>
 	<key>com_apple_garageband_metadata_numberOfArrangeAlchemyTracks</key>
@@ -23,7 +23,7 @@
 	<key>com_apple_garageband_metadata_numberOfArrangeDrummerTracks</key>
 	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfArrangeTracks</key>
-	<integer>13</integer>
+	<integer>14</integer>
 	<key>com_apple_garageband_metadata_numberOfAudioUnitTracks</key>
 	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfGridColumns</key>
@@ -41,11 +41,11 @@
 	<key>com_apple_garageband_metadata_numberOfSIGridRows</key>
 	<integer>-1</integer>
 	<key>com_apple_garageband_metadata_numberOfSITracks</key>
-	<integer>13</integer>
+	<integer>14</integer>
 	<key>com_apple_garageband_metadata_numberOfVisibleArrangeTracks</key>
-	<integer>13</integer>
+	<integer>14</integer>
 	<key>com_apple_garageband_metadata_songDuration</key>
-	<real>219.73034013605439</real>
+	<real>242.6440589569161</real>
 	<key>com_apple_garageband_metadata_songGender</key>
 	<string>major</string>
 	<key>com_apple_garageband_metadata_songKey</key>
@@ -55,7 +55,7 @@
 	<key>com_apple_garageband_metadata_songSignatureNominator</key>
 	<integer>4</integer>
 	<key>com_apple_garageband_metadata_songTempo</key>
-	<integer>178</integer>
+	<integer>177</integer>
 	<key>com_apple_garageband_metadata_songTitle</key>
 	<string>我的乐曲 7</string>
 	<key>com_apple_garageband_metadata_songVersionNumber</key>
@@ -67,7 +67,7 @@
 	<key>com_apple_mobilegarageband_metadata_songVersionNumber</key>
 	<integer>12</integer>
 	<key>kDfMetaDataKey_numberOfRootRegions</key>
-	<integer>66</integer>
+	<integer>53</integer>
 	<key>plistVersion</key>
 	<integer>1050</integer>
 </dict>
